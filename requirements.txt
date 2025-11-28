@@ -1,0 +1,6 @@
+streamlit
+streamlit-chat
+requests
+langchain
+langchain-core
+langchain-ollama
