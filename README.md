@@ -29,6 +29,7 @@ caisa_model_switch/
 │   ├── ui.py            # UI, CSS, sidebar, chat rendering
 │   └── chat.py          # Streaming chat logic
 ├── main.py              # Streamlit entry point
+├── .env                 # Set OLLAMA_HOST server
 ├── requirements.txt
 └── README.md
 
